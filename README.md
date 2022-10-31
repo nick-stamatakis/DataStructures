@@ -17,5 +17,5 @@ Checks for nested and non-nested iterative blocks to determine the time complexi
 
 Project 4: NetworkFlowSimulation - Queues
 
-Simulates the flow of Packets to intermediate routers, and how they are able to end at a particular destination router.
+Simulates the flow of Packets to intermediate routers from the Dispatcher, and how they are able to end at a particular destination router.
 Constraints in simulation: Bandwidth, Size of the Packet, Arrival Probability, Number of Intermediate Routers, and Max Buffer Size.
