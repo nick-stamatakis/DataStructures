@@ -19,3 +19,8 @@ Project 4: NetworkFlowSimulation - Queues
 
 Simulates the flow of Packets to intermediate routers from the Dispatcher, and how they are able to end at a particular destination router.
 Constraints in simulation: Bandwidth, Size of the Packet, Arrival Probability, Number of Intermediate Routers, and Max Buffer Size.
+
+Project 5: LinuxFileSystemSimulator - Ternary Trees
+
+Uses the Trees data structure through the use of both a TreeNode and a Tree class in order to simulate common file-system operations within Linux such as pwd, ls, ls -R
+cd {dir}, cd /, mkdir {name}, touch {name}, and exit.
