@@ -22,5 +22,5 @@ Constraints in simulation: Bandwidth, Size of the Packet, Arrival Probability, N
 
 Project 5: LinuxFileSystemSimulator - Ternary Trees
 
-Uses the Trees data structure through the use of both a TreeNode and a Tree class in order to simulate common file-system operations within Linux such as pwd, ls, ls -R
+Uses the Trees data structure through the use of both a TreeNode and a Tree class in order to simulate common file-system operations within Linux such as pwd, ls, ls -R,
 cd {dir}, cd /, mkdir {name}, touch {name}, and exit.
