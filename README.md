@@ -24,3 +24,7 @@ Project 5: LinuxFileSystemSimulator - Ternary Trees
 
 Uses the Trees data structure through the use of both a TreeNode and a Tree class in order to simulate common file-system operations within Linux such as pwd, ls, ls -R,
 cd {dir}, cd /, mkdir {name}, touch {name}, and exit.
+
+Project 6: Auction - Hashmap
+
+Reads XML file to extract data for intial option. Following this, the user is given a list of options: Import Data from URL, Create a New Auction, Bid on an Item, Get Info on Auction, Print All Auctions, Remove Expired Auctions, Let Time Pass, and Quit.
