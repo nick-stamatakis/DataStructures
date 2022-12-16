@@ -28,3 +28,7 @@ cd {dir}, cd /, mkdir {name}, touch {name}, and exit.
 Project 6: Auction - Hashmap
 
 Reads XML file to extract data for intial option. Following this, the user is given a list of options: Import Data from URL, Create a New Auction, Bid on an Item, Get Info on Auction, Print All Auctions, Remove Expired Auctions, Let Time Pass, and Quit.
+
+Project 7: Search Engine (Google PageRank Algorithm) - Graphs 
+
+Provides user tabular view of webpages according to the rank in the algorithm. My simplified version of the algorithm uses the number of incoming arrows into a node to determine its rank. Includes GUI.
